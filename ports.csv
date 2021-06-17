@@ -1,0 +1,1267 @@
+description,port,status,tcp,udp
+Hotline file transfer connection,5501,Unofficial,True,False
+Outlaws (1997 video game). Both UDP and TCP are reserved, but only UDP is used,5310,Official,True,True
+TetriNET IRC gateway on some servers,31456,Unofficial,True,False
+Kaillera server,27888,Unofficial,False,True
+IBM Lotus Sametime p2p file transfer,5656,Unofficial,True,False
+Spiceworks Desktop, IT Helpdesk Software,9676,Unofficial,True,True
+Teeworlds Server,8303,Unofficial,False,True
+WSDAPI Applications to Use a Secure Channel (only provided by Windows Vista, Windows 7 and Server 2008),5358,Unofficial,True,True
+dnsix (DoD Network Security for Information Exchange) Securit Attribute Token Map,90,Official,True,True
+PointCast (dotcom),90,Unofficial,True,True
+Hydranode—edonkey2000 TELNET control,9999,Unofficial,False,False
+Lantronix UDS-10/UDS100[105] RS-485 to Ethernet Converter TELNET control,9999,Unofficial,True,False
+Urchin Web Analytics[citation needed],9999,Unofficial,False,False
+Internet Relay Chat (IRC),6665–6669,Official,True,False
+Killing Floor,20560,Unofficial,True,True
+Killing Floor,28852,Unofficial,True,True
+TetriNET,31457,Official,True,False
+Zimbra mysql [mailbox][citation needed],7306,Unofficial,True,False
+HTTP RPC Ep Map, Remote procedure call over Hypertext Transfer Protocol, often used by Distributed Component Object Model services and Microsoft Exchange Server,593,Official,True,True
+HTTP Alternate (http_alt_alt)—used as an alternative to port 8080[citation needed],8090,Unofficial,True,False
+Jungle Disk (this port is opened by the Jungle Disk Monitor service on the localhost)[citation needed],10891,Unofficial,True,False
+SentinelSRM (hasplm), Aladdin HASP License Manager,1947,Official,True,True
+CouchDB database server,5984,Official,True,True
+Reserved,0,Official,False,True
+Norman distributed scanning service,3999,Official,True,True
+TELNET protocol over TLS/SSL,992,Official,True,True
+Default for BMC Software Control-M/Server and Control-M/Agent for Server-to-Agent, though often changed during installation,7006,Unofficial,True,False
+Gkrellm Server,19150,Unofficial,True,True
+MS Exchange Routing,691,Official,True,False
+Duke Nukem 3D#Source code Duke Nukem Ports,23513,Unofficial,False,False
+Moby[citation needed],1792,Unofficial,True,True
+Topology Broadcast based on Reverse-Path Forwarding routing protocol (TBRPF) (RFC 3684),712,Official,True,False
+Miralix TimeOut[citation needed],3005,Unofficial,True,False
+Network Caller ID server,3333,Unofficial,True,False
+CruiseControl.rb[52],3333,Unofficial,True,False
+Zimbra conversion server,7047,Unofficial,True,False
+Citrix XenApp Independent Computing Architecture (ICA) thin client protocol[46],1494,Official,True,False
+FRISK Software International's fpscand virus scanning daemon for Unix platforms [107],10200,Unofficial,True,False
+FRISK Software International's f-protd virus scanning daemon for Unix platforms [108],10200,Unofficial,True,False
+FRISK Software International's f-protd virus scanning daemon for Unix platforms [108],10201–10204,Unofficial,True,False
+Cisco RADIUS Change of Authorization for TrustSec[citation needed],1700,Unofficial,False,True
+Layer 2 Forwarding Protocol (L2F) & Layer 2 Tunneling Protocol (L2TP),1701,Official,False,True
+Gearman' job server,4730,Official,True,True
+Sub7 default.,27374,Unofficial,False,False
+Teradici PCoIP,4172,Official,True,True
+cvp, Commvault Unified Data Management,8400,Official,True,True
+Windward Studios,1707,Official,True,True
+Romtoc Interactive Modular Multiplayer Client-Server Online Application Interface & Layer 2 Tunneling Protocol (L2TP),1707,Unofficial,False,True
+ConsoleWorks default UI interface[citation needed],5176,Unofficial,True,False
+Extensible Messaging and Presence Protocol (XMPP) server connection[71][72],5269,Official,True,False
+TeamSpeak—default,8767,Unofficial,False,True
+Google Talk Voice and Video connections [113],19302,Unofficial,False,True
+CPanel default SSL Web mail,2096,Unofficial,True,False
+COMIT SE (PCR)[citation needed],5850,Unofficial,True,False
+Adeona client: communications to OpenDHT[citation needed],5852,Unofficial,True,False
+Extensible Messaging and Presence Protocol (XMPP) client connection[71][72],5222,Official,True,False
+Perforce,1666,Unofficial,True,False
+Default for Tidal Enterprise Scheduler agent-Socket used for communication between Master-to-Agent, though can be changed[citation needed],5912,Unofficial,True,False
+FileMaker 6.0 (and later) Web Sharing (HTTP Alternate, also see port 80),591,Official,True,False
+Network File System (protocol) Service,944,Unofficial,False,True
+WebObjects,1085,Official,True,True
+RuneScape JAGGRAB servers,43595,Unofficial,True,False
+SMUX, SNMP Unix Multiplexer,199,Official,True,True
+SOCKS proxy,1080,Official,True,False
+Referral Whois (RWhois) Protocol[58],4321,Official,True,False
+Internet Relay Chat (IRC),194,Official,True,True
+Lincoln Electric's ArcLink/XT[citation needed],4323,Unofficial,False,True
+ZangZing agent,30777,Unofficial,True,False
+devpi Python package server [51],3141,Unofficial,True,False
+Oracle Universal Content Management Inbound Refinery,16250,Unofficial,True,False
+Ultra Fractal default server port for distributing calculations over network computers,8691,Unofficial,True,False
+I2P Basic Open Bridge API,2827,Unofficial,True,False
+Xfire (Firewall Report, UDP_IN) IP Address (206.220.40.146) resolves to gameservertracking.xfire.com. Use unknown.,25888,Unofficial,False,True
+SNPP, Simple Network Paging Protocol (RFC 1568),444,Official,True,True
+GTP' 3GPP GSM/UMTS CDR logging protocol,3386,Official,True,True
+EVault data protection services,2546,Unofficial,True,True
+IBM Rational Synergy (Telelogic Synergy) (Continuus CM) Message Router,5412,Official,True,True
+Wonderware SuiteLink service,5413,Official,True,True
+Miralix SMS Client Connector[citation needed],3006,Unofficial,True,False
+netpd.org[citation needed],3025,Unofficial,True,False
+Axence nVision [59],12011,Unofficial,True,False
+ElevateDB default database port [109],12010,Unofficial,True,False
+Audition Online Dance Battle, Korea Server,12013,Unofficial,True,True
+Axence nVision [59],12012,Unofficial,True,False
+Audition Online Dance Battle, Korea Server—Status/Version Check,12012,Unofficial,True,False
+Audition Online Dance Battle, Korea Server—Status/Version Check,12012,Unofficial,False,True
+HP Insight Manager default for Web server[citation needed],2381,Unofficial,True,False
+Timed, Timeserver,525,Official,False,True
+efs, extended file name server,520,Official,True,False
+Routing Information Protocol (RIP),520,Official,False,True
+Iron Mountain Digital online backup[citation needed],16384,Unofficial,False,True
+CoMotion Backup,2262,Official,True,True
+PowerSchool Gradebook Server[citation needed],7880,Unofficial,True,True
+CoMotion Master,2261,Official,True,True
+ThinLinc Web Administration,1010,Unofficial,True,False
+VLC media player default port for UDP/RTP stream,1234,Unofficial,False,True
+SOLICARD ARX[63],5002,Unofficial,True,False
+Drobo Dashboard[64],5002,Unofficial,False,True
+Symantec BindView Control UNIX Default port for TCP management server connections,1236,Unofficial,True,False
+commplex-main,5000,Official,True,False
+UPnP—Windows network device interoperability,5000,Unofficial,True,False
+VTun—VPN Software,5000,Unofficial,True,True
+FlightGear multiplayer[62],5000,Unofficial,False,True
+Synology Inc. Management Console, File Station, Audio Station,5000,Unofficial,True,False
+ovwdb—OpenView Network Node Manager (NNM) daemon,2447,Official,True,True
+first-defense, Remote systems monitoring service from Nexum, Inc,1232,Official,True,True
+RTP (Real-time Transport Protocol) media data (RFC 3551, RFC 4571),5004,Official,True,True
+RTP (Real-time Transport Protocol) media data (RFC 3551, RFC 4571),5004,Official,True,False
+Hypertext Transfer Protocol over TLS/SSL (HTTPS),443,Official,True,False
+Men and Mice DNS,1337,Official,False,True
+Men and Mice DNS,1337,Official,True,False
+WASTE Encrypted File Sharing Program,1337,Unofficial,True,False
+id Software's Quake II master server,27901-27910,Unofficial,False,True
+Nintendo Wi-Fi Connection,27900-27901,Unofficial,False,False
+Astergate-FAX Control Daemon,9107,Official,True,False
+RAD PDF Service,18104,Official,True,False
+SNA Gateway Access Server [1],108,Official,True,True
+Post Office Protocol v2 (POP2),109,Official,True,False
+HTTP listener for Apache Synapse [97],8280,Official,True,True
+ISO-TSAP (Transport Service Access Point) Class 0 protocol;[12] also used by Digital Equipment Corporation DECnet (Phase V+) over TCP/IP,102,Official,True,False
+CyberGate RAT protocol,100,Unofficial,False,True
+NIC host name,101,Official,True,False
+Polipo Web proxy,8123,Official,True,False
+Bukkit DynMap Default Webserver Bind Address,8123,Unofficial,True,False
+Remote TELNET Service[13] protocol,107,Official,True,False
+ACR/NEMA Digital Imaging and Communications in Medicine (DICOM),104,Official,True,True
+CCSO Nameserver Protocol (Qi/Ph),105,Official,True,True
+ideafarm-door,902,Official,True,False
+VMware Server Console (TCP from management console to server being Managed),902,Unofficial,True,False
+ideafarm-door,902,Official,False,True
+VMware Server Console (UDP from server being managed to management console),902,Unofficial,False,True
+Killing Floor,7707,Unofficial,False,True
+metasys ( Johnson Controls Metasys java AC control environment )[citation needed],11001,Unofficial,True,True
+Samba Web Administration Tool (SWAT),901,Unofficial,True,False
+VMware Virtual Infrastructure Client (UDP from server being managed to management console),901,Unofficial,True,False
+VMware Virtual Infrastructure Client (UDP from server being managed to management console),901,Unofficial,False,True
+Miralix License server[citation needed],3000,Unofficial,True,False
+Cloud9 Integrated Development Environment server,3000,Unofficial,True,False
+Distributed Interactive Simulation (DIS), modifiable default,3000,Unofficial,False,True
+Ruby on Rails development default[50],3000,Unofficial,True,False
+Linux-HA High availability Heartbeat,694,Official,True,True
+P2P DC (RedHub)[citation needed],7700,Unofficial,False,True
+Mail.Ru Agent communication protocol[citation needed],2041,Unofficial,True,False
+Display Support Protocol,33,Official,True,True
+Netop Business Solutions - NetOp Remote Control,6502,Unofficial,True,True
+IEEE-MMS-SSL (IEEE Media Management System over SSL)[28],695,Official,True,False
+ÆtherNet peer-to-peer networking[citation needed],13337-13340,Unofficial,True,True
+RunUO—Ultima Online server,2593,Unofficial,True,True
+Any private printer server protocol,35,Official,True,True
+Network File System,2049,Official,True,True
+shilp,2049,Official,False,True
+Nessus Security Scanner,1241,Official,True,True
+MooseFS distributed file system—master server to chunk servers,9420,Unofficial,True,False
+Eclipse Target Communication Framework (TCF) agent discovery[47],1534,Unofficial,False,True
+IBM Sametime IM—Virtual Places Chat Microsoft SQL Server,1533,Official,True,False
+Garena Garena Gaming Client,1513,Official,True,True
+DHCP Failover protocol[24],647,Official,True,False
+LDP, Label Distribution Protocol, a routing protocol used in MPLS networks,646,Official,True,True
+Verisys file integrity monitoring software,3313,Unofficial,True,False
+RRP (Registry Registrar Protocol)[25],648,Official,True,False
+Cylon Controls UC32 Communications Port,4950,Official,True,True
+Microsoft Windows Internet Name Service (WINS),1512,Official,True,True
+APC Agent,2161,Official,True,False
+APC Agent,2160,Official,True,False
+Omron FINS, OMRON FINS PLC communication,9600,Official,False,True
+QPasa from MQSoftware,2612,Official,True,True
+TrackiT mobile device monitoring,2610,Unofficial,True,False
+Orthanc - Default HTTP Port for GUI,8042,Unofficial,True,False
+FileMaker,5003,Official,True,True
+Used by HGG programs[citation needed],3800,Unofficial,True,False
+Default for older versions of eMule[60],4672,Unofficial,False,True
+WatchGuard authentication applet default,4100,Unofficial,False,False
+OLSR (Optimized Link State Routing),698,Official,False,True
+Shofar (ShofarNexus),4105,Official,True,True
+SAP-Router (routing application proxy for SAP R/3),3299,Unofficial,True,False
+TorgaNET (Micronational Intelligence Darknet),5125,Unofficial,True,True
+Zimbra smtp [mta]—to amavis from postfix[citation needed],10024,Unofficial,True,False
+Zimbra smtp [mta]—back to postfix from amavis[citation needed],10025,Unofficial,True,False
+Used by VATSIM, the Virtual Air Traffic Simulation network for voice communication.,3290,Unofficial,False,True
+WinRM - Windows Remote Management Service [123],47001,Official,True,False
+Microsoft SSDP Enables discovery of UPnP devices,1900,Official,False,True
+Sybase database listener[citation needed],2638,Unofficial,True,False
+Sophos Remote Management System,8192,Unofficial,True,False
+Sophos Remote Management System,8193,Unofficial,True,False
+PgBouncer - A connection pooler for PostgreSQL,6432,Official,True,False
+Sophos Remote Management System,8194,Unofficial,True,False
+Bloomberg Application[citation needed],8194,Unofficial,True,False
+[RSVP] Reservation Protocol,3455,Official,True,True
+Bacula File Daemon,9102,Official,True,True
+ARPA Host Name Server Protocol,42,Official,True,True
+Windows Internet Name Service,42,Unofficial,True,True
+laes-bf, IP Fabrics Surveillance buffering function,9536,Official,True,True
+Smartcard Port,3516,Official,True,True
+Steam Client,27000-27030,Unofficial,False,True
+(through 27006) id Software's QuakeWorld master server,27000,Unofficial,False,True
+FlexNet Publisher's License server (from the range of default ports),27000-27009,Unofficial,True,False
+Sphinx SphinxQL,9312,Official,True,False
+Windows Live FolderShare client,6571,Unofficial,False,False
+Remote Administrator,3899,Unofficial,True,False
+Teamware Office client notifier,25003,Official,True,False
+OpenCORE Remote Control Service,4089,Official,True,True
+I2P anonymizing overlay network,7656-7660,Unofficial,True,False
+Skype Default Protocol,23399,Unofficial,False,False
+Audition Online Dance Battle, AsiaSoft Thailand Server—FAM Database,18206,Unofficial,True,True
+Digital Airways' OHM server's commands to mobile devices (used mainly for binary SMS),4732,Official,False,True
+Microsoft Terminal Server (RDP) officially registered as Windows Based Terminal (WBT) - Link,3389,Official,True,True
+Audition Online Dance Battle, AsiaSoft Thailand Server—Status/Version Check,18200,Unofficial,True,True
+Cross Fire, a multiplayer online First Person Shooter[citation needed],10009,Unofficial,True,True
+Vizrt System,6100,Unofficial,True,False
+Ventrilo This is the authentication port that must be allowed outbound for version 3 of Ventrilo,6100,Official,True,False
+Virtual Network Computing (VNC) remote desktop protocol (used by Apple Remote Desktop and others),5900,Official,True,True
+DNP (Distributed Network Protocol), a protocol used in SCADA systems between communicating RTU's and IED's,20000,Official,False,False
+Usermin, Web-based user tool,20000,Unofficial,False,False
+Avira Server Management Console,7001,Unofficial,True,False
+Default for BEA WebLogic Server's HTTP server, though often changed during installation,7001,Unofficial,True,False
+Default for Vuze's built in HTTPS Bittorrent Tracker,7000,Unofficial,True,False
+Avira Server Management Console,7000,Unofficial,True,False
+odette-ftps, Odette File Transfer Protocol (OFTP) over TLS/SSL,6619,Official,True,True
+Default for BEA WebLogic Server's HTTPS server, though often changed during installation,7002,Unofficial,True,False
+Default for BMC Software Control-M/Server and Control-M/Agent for Agent-to-Server, though often changed during installation,7005,Unofficial,True,False
+WiT WiT Services,9020,Official,True,False
+mftp, Stratacache OmniCast content delivery system MFTP file sharing protocol,5402,Official,True,True
+HP Virtual Room Service,5228,Official,True,False
+Google Play, Android Cloud to Device Messaging Service, Google Cloud Messaging,5228,Unofficial,True,False
+iSketch[citation needed],1627,Unofficial,False,False
+Cisco STUN-SDLC (Serial Tunneling—Synchronous Data Link Control) protocol,1994,Official,True,True
+Chizmo Networks Transfer Tool[citation needed],1997,Unofficial,True,False
+Extensible Messaging and Presence Protocol (XMPP) client connection over SSL,5223,Unofficial,True,False
+Cisco X.25 over TCP (XOT) service,1998,Official,True,True
+Novell NDPS Printer Agent,3396,Official,True,True
+Qpur File Protocol,5083,Official,True,True
+Transaction Warehouse Data Service (TWDS),8937,Official,True,False
+WebSphere Application Server Administration Console,9060,Unofficial,True,False
+Qpur Communication Protocol,5082,Official,True,True
+Nessus web,8834,Unofficial,False,False
+Hewlett-Packard Support Automation (HP OpenView Self-Healing Services)[citation needed],5814,Official,True,True
+AMLFilter, AMLFilter Inc. amlf-engine-02 default https port,21022,Unofficial,True,False
+AMLFilter, AMLFilter Inc. amlf-engine-02 default http port,21021,Unofficial,True,False
+Cisco MGCP,2427,Official,False,True
+Killing Floor,7717,Unofficial,False,True
+Norman Proprietary Event Protocol NPEP,2868,Official,True,True
+Real Time Streaming Protocol (RTSP),554,Official,True,True
+Remotefs, RFS, rfs_server,556,Official,True,False
+distributed compiler,3632,Official,True,False
+new-rwho, new-who[21],550,Official,True,True
+WebDAV Source,9800,Official,True,True
+WebCT e-learning portal,9800,Unofficial,False,False
+BitTorrent part of full range of ports used most often,6891–6900,Unofficial,True,True
+Windows Live Messenger (File transfer),6891–6900,Unofficial,True,True
+Aqumin AlphaVision Remote Command Interface[citation needed],7676,Unofficial,True,False
+Web control interface for Folding@home v7.3.6 and later[87],7396,Unofficial,True,False
+Tibia,7171,Unofficial,True,False
+WAP-pushsecure Multimedia Messaging Service (MMS),2949,Official,True,True
+WAP-push Multimedia Messaging Service (MMS),2948,Official,True,True
+gpsd GPS daemon,2947,Official,True,False
+Bitcoin testnet[99],18333,Unofficial,True,False
+Megaco binary (ASN.1) H.248,2945,Unofficial,False,True
+Teamware Office Agent server,25010,Official,True,False
+Mikrotik RouterOS Neighbor Discovery Protocol (MNDP),5678,Unofficial,False,True
+Zimbra mysql [logger][citation needed],7307,Unofficial,True,False
+BrettspielWelt BSW Boardgame Portal,7670,Unofficial,True,False
+Secure MQ Telemetry Transport (MQTT over SSL),8883,Official,True,True
+Web Services for Devices (WSDAPI) (only provided by Windows Vista, Windows 7 and Server 2008),5357,Unofficial,True,True
+The cajo project Free dynamic transparent distributed computing in Java,1198,Official,True,True
+LLMNR—Link-Local Multicast Name Resolution, allows hosts to perform name resolution for hosts on the same local link (only provided by Windows Vista and Server 2008),5355,Official,True,True
+Megaco text H.248,2944,Unofficial,False,True
+Multicast DNS (mDNS),5353,Official,False,True
+Internet Message Access Protocol over TLS/SSL (IMAPS),993,Official,True,False
+NAT Port Mapping Protocol—client-requested configuration for inbound connections through network address translators,5351,Official,True,True
+NTalk,518,Official,False,True
+nim, IBM AIX Network Installation Manager (NIM),1058,Official,True,True
+nimreg, IBM AIX Network Installation Manager (NIM),1059,Official,True,True
+LSI RAID Management formerly Symbios Logic,2463,Official,True,True
+DirectAdmin default & ESET Remote Administration,2222,Unofficial,True,False
+Microsoft Office OS X antipiracy network monitor[citation needed],2223,Unofficial,False,True
+NetIQ End2End,2220,Official,True,True
+ESET Anti-virus updates,2221,Unofficial,True,False
+TCP Port Service Multiplexer (TCPMUX),1,Official,True,True
+Digital Video Recorder hardware[citation needed],37777,Unofficial,True,False
+Microsoft Media Services (MMS, ms-streaming),1755,Official,True,True
+RTP (Real-time Transport Protocol) control protocol (RFC 3551, RFC 4571),5005,Official,True,True
+RTP (Real-time Transport Protocol) control protocol (RFC 3551, RFC 4571),5005,Official,True,False
+Perceptive Automation Indigo Home automation server,1176,Official,True,False
+Dropbox LanSync Protocol (db-lsp); used to synchronize file catalogs between Dropbox clients on your local network.,17500,Official,True,True
+Internet Message Access Protocol (IMAP)—management of email messages,143,Official,True,False
+BitTorrent part of full range of ports used most often,6970–6999,Unofficial,True,True
+Microsoft System Center Operations Manager (SCOM) (formerly Microsoft Operations Manager (MOM)) agent,1270,Official,True,True
+PortStart - WarZ,34010,Unofficial,False,False
+Precise TPM Listener Agent,20702,Unofficial,True,False
+KnowShowGo P2P,2700–2800,Official,True,False
+Battlefield 1942 and mods,14567,Unofficial,False,True
+AMX ICSP,1319,Official,True,False
+AMX ICSP,1319,Official,False,True
+Microsoft Silverlight connectable ports under non-elevated trust,4502-4534,Official,True,False
+Web Services Dynamic Discovery (WS-Discovery), used by various components of Windows Vista,3702,Official,True,True
+Leonardo over IP Pro2col Ltd,1886,Unofficial,True,False
+Battlefield Vietnam and mods,15567,Unofficial,False,True
+MQ Telemetry Transport (MQTT), formerly known as MQIsdp (MQSeries SCADA protocol),1883,Official,True,True
+FTP proxy[citation needed],2121,Unofficial,True,False
+Rexec, Remote Process Execution,512,Official,True,False
+comsat, together with biff,512,Official,False,True
+SoftPerfect Bandwidth Manager,8702,Unofficial,False,True
+D2000 Entis/Actis Application server,3119,Official,True,False
+Infowave Mobility Server,2082,Official,True,False
+CPanel default,2082,Unofficial,True,False
+Secure Radius Service (radsec),2083,Official,True,False
+CPanel default SSL,2083,Unofficial,True,False
+Autodesk NLM (FLEXlm),2080,Official,True,True
+GNUnet,2086,Official,True,False
+WebHost Manager default,2086,Unofficial,True,False
+WebHost Manager default SSL,2087,Unofficial,True,False
+OrbitNet Message Service,4662,Official,False,True
+OrbitNet Message Service,4662,Official,True,False
+Default for older versions of eMule[60],4662,Unofficial,True,False
+Shell—used to execute non-interactive commands on a remote system (Remote Shell, rsh, remsh),514,Official,True,False
+Syslog—used for system logging,514,Official,False,True
+ClientPort - WarZ,34001,Unofficial,False,False
+OSIsoft PI Server Client Access,5450,Unofficial,True,False
+Solarwinds Kiwi Log Server,1470,Official,True,False
+Network Time Protocol (NTP)—used for time synchronization,123,Official,False,True
+REALM-RUSD (ApplianceWare Server Appliance Management Protocol),688,Official,True,True
+Lotus Traveller[citation needed],8642,Unofficial,True,False
+TeamSpeak—alternate,8768,Unofficial,False,True
+MADCAP - Multicast Address Dynamic Client Allocation Protocol,2535,Official,True,False
+[9] DukesterX —default[citation needed],8501,Unofficial,True,False
+XBT Tracker,2710,Unofficial,True,False
+XBT Tracker experimental UDP tracker extension,2710,Unofficial,False,True
+Knuddels.de[citation needed],2710,Unofficial,True,False
+OpenArena outgoing,27950,Unofficial,False,True
+Palmer Performance OBDNet,1301,Unofficial,True,False
+Altera Quartus jtagd,1309,Unofficial,True,False
+OpenVPN,1194,Official,True,True
+IDA Discover Port 1,5741,Official,True,True
+IDA Discover Port 2,5742,Official,True,True
+NetBIOS NetBIOS Name Service,137,Official,True,True
+Unassigned,4,Official,True,True
+DCE endpoint resolution,135,Official,True,True
+Microsoft EPMAP (End Point Mapper), also known as DCE/RPC Locator service,[15] used to remotely manage services including DHCP server, DNS server and WINS. Also used by DCOM,135,Unofficial,True,True
+TeamSpeak 3 server default (voice) port (for the conflicting service see the IANA list),9987,Unofficial,False,True
+Cisco Audio Session Tunneling[citation needed],4224,Unofficial,True,False
+NetBIOS NetBIOS Session Service,139,Official,True,True
+NetBIOS NetBIOS Datagram Service,138,Official,True,True
+Nintendo Wi-Fi Connection[118],28910,Unofficial,False,False
+GoGlobal TCP/IP version),491,,True,True
+HTTP/TCP Symon Communications Event and Query Engine[citation needed],8011-8013,Unofficial,True,False
+XMPP File transfers,8010,Unofficial,True,False
+Priv-mail : any private mail system.,24,Official,True,True
+Simple Mail Transfer Protocol (SMTP)—used for e-mail routing between mail servers,25,Official,True,False
+Unassigned,26,Official,True,True
+NSW User System FE,27,Official,True,True
+FTP data transfer,20,Official,True,True
+FTP control (command),21,Official,True,False
+Secure Shell (SSH) — used for secure logins, file transfers (scp, sftp) and port forwarding,22,Official,True,True
+Telnet protocol—unencrypted text communications,23,Official,True,True
+Lock-on: Modern Air Combat[citation needed],10308,Unofficial,False,False
+MSG ICP,29,Official,True,True
+collectd default port[115],25826,Unofficial,False,True
+Talari Reliable Protocol,2156,Official,False,True
+Solar Data Log (JK client app for PV solar inverters)[citation needed],4982,Unofficial,True,True
+UPS Uninterruptible Power Supply,401,Official,True,True
+CVS version control system,2401,Unofficial,True,False
+Call of Duty; Call of Duty: United Offensive; Call of Duty 2; Call of Duty 4: Modern Warfare; Call of Duty: World at War (PC Version),28960,Unofficial,False,True
+Artemis: Spaceship Bridge Simulator default port,2010,Unofficial,True,False
+Remoticus Server,2012-2013,Unofficial,True,False
+QualiSystems TestShell Suite Services,4610–4640,Unofficial,True,False
+Used by RedSeal Networks client/server connection[citation needed],3835,Unofficial,True,False
+iOperator Protocol Signal Port[citation needed],6072,Unofficial,True,False
+new ICA (Citrix) —when Session Reliability is enabled, TCP port 2598 replaces port 1494[46],2598,Unofficial,True,False
+IPSec NAT Traversal (RFC 3947),4500,Official,False,True
+WiT WiT Services,9025,Official,True,False
+SonicWALL anti-spam traffic between Remote Analyzer (RA) and Control Center (CC),2599,Unofficial,True,False
+Symantec NetBackup—bprd (formerly VERITAS),13720,Official,True,True
+Symantec NetBackup—bpdbm (formerly VERITAS),13721,Official,True,True
+MultiBit, [8],8331,Unofficial,True,False
+Symantec Network Utility—vnetd (formerly VERITAS),13724,Official,True,True
+Microsoft Corporation Microsoft Windows SBS SharePoint,987,Unofficial,True,False
+NetIQ VoIP Assessor,10116,Official,True,True
+IPStor Server management communication,11576,Unofficial,False,False
+NetIQ Qcheck,10114,Official,True,True
+NetIQ Endpoint,10115,Official,True,True
+CVSup file update tool[82],5999,Official,True,False
+NetIQ Endpoint,10113,Official,True,True
+NMEA 0183 Navigational Data. Transport of NMEA 0183 sentences over TCP or UDP,10110,Official,True,True
+Rise: The Vieneo Province,7473,Official,True,True
+A-Talk Common connection[citation needed],5106,Unofficial,True,False
+OpenPGP HTTP key server,11371,Official,True,False
+Sibelius License Server,7312,Unofficial,False,True
+Tonido Directory Server for Tonido which is a Personal Web App and P2P platform,24465,Official,True,True
+Integrated Client Message Service (ICMS),4486,Official,True,True
+Certificate Management Protocol[38],829,Unofficial,True,False
+ISL Online[88] communication protocol,7615,Unofficial,True,False
+traceroute,33434,Official,True,True
+ClearCase albd,371,Official,True,True
+codaauth2—Coda authentication server,370,Official,True,False
+codaauth2—Coda authentication server,370,Official,False,True
+securecast1—Outgoing packets to NAI's servers [19][dead link],370,Unofficial,False,True
+Bad Trip MUD[citation needed],7778,Unofficial,True,False
+Group Domain Of Interpretation (GDOI) protocol,848,Official,True,True
+FileNet RPC,32769,Unofficial,True,False
+MXit Instant Messenger,9119,Official,True,True
+Axence nVision [59],4433-4436,Unofficial,True,False
+A-Talk Remote server connection[citation needed],5107,Unofficial,True,False
+Secure Internet Live Conferencing (SILC),706,Official,True,False
+EPP (Extensible Provisioning Protocol), a protocol for communication between domain name registries and registrars (RFC 5734),700,Official,True,False
+Binary Floor Control Protocol (BFCP),[68] published as RFC 4582, is a protocol that allows for an additional video channel (known as the content channel) alongside the main video channel in a video-conferencing call that uses SIP. Also used for Session Initiation Protocol (SIP) preferred port for PUBLISH on SIP Trunk to Cisco Unified Presence Server (CUPS),5070,Unofficial,True,False
+IRIS[30][31] (Internet Registry Information Service) over BEEP (Blocks Extensible Exchange Protocol)[32] (RFC 3983),702,Official,True,False
+Kerberos—authentication system,88,Official,True,True
+Hotline tracker server connection,5498,Unofficial,True,False
+Hotline tracker server discovery,5499,Unofficial,False,True
+MySQL database system,3306,Official,True,True
+IBM Cognos TM1 Admin server,5495,Unofficial,True,False
+Digital Equipment Corporation DECnet (Phase V+) over TCP/IP,399,Official,True,True
+odette-ftp, Odette File Transfer Protocol (OFTP),3305,Official,True,True
+Debate Gopher backend database system[citation needed],3300,Unofficial,True,True
+Solaris lockd NFS lock daemon/manager,4045,Unofficial,True,True
+Club Penguin Disney online game for kids,9875,Unofficial,True,False
+America's Army Massively multiplayer online game (MMO),1716,Unofficial,True,False
+HP System Management Redirect to port 2381[citation needed],2301,Unofficial,True,False
+ArmA multiplayer (default for server reporting) (default port for game +1),2303,Unofficial,False,True
+ArmA multiplayer (default for game),2302,Unofficial,False,True
+Halo: Combat Evolved multiplayer,2302,Unofficial,False,True
+ArmA multiplayer (default for VoN) (default port for game +3),2305,Unofficial,False,True
+PostgreSQL database system,5432,Official,True,True
+Echo Protocol,7,Official,True,True
+SSMP Message protocol,9110,Unofficial,False,True
+id Software's Quake server,26000,Official,False,True
+id Software's Quake server,26000,Official,True,False
+CCP's EVE Online Online gaming MMORPG,26000,Unofficial,True,False
+e-mail message submission[22] (SMTP),587,Official,True,False
+Synergy: keyboard/mouse sharing software,24800,Unofficial,False,False
+DART Reporting server[citation needed],18180,Unofficial,True,False
+GoToMyPC,8200,Unofficial,True,False
+Instrument Neutral Distributed Interface,7624,Official,True,True
+Extensible Messaging and Presence Protocol (XMPP) XEP-0124: Bidirectional-streams Over Synchronous HTTP (BOSH),5280,Official,True,False
+Takenaka RDI Mirror World on SecondLife[citation needed],12998–12999,Unofficial,False,True
+GFI EventsManager 7 & 8[citation needed],7787-7788,Official,True,False
+Murealm Client[citation needed],41823,Unofficial,True,True
+x3Lobby Used by x3Lobby, an internet application.,32123,Unofficial,True,False
+MSSQL (Microsoft SQL Server database management system) Monitor,1434,Official,True,True
+id Software's QuakeWorld,27500-27900,Unofficial,False,True
+MSSQL (Microsoft SQL Server database management system) Server,1433,Official,True,False
+Reverse Gossip Transport Protocol (RGTP), used to access a General-purpose Reverse-Ordered Gossip Gathering System (GROGGS) bulletin board, such as that implemented on the Cambridge University's Phoenix system,1431,Official,True,False
+Peercast[citation needed],7144,Unofficial,True,False
+Peercast[citation needed],7145,Unofficial,True,False
+Killing Floor,8075,Unofficial,True,False
+Miralix IVR and Voicemail[citation needed],3017,Unofficial,True,False
+Starsiege: Tribes Common/default Tribes v.1 Server,28001,Unofficial,False,False
+Bitfighter Common/default Bitfighter Server,28000,Unofficial,False,False
+Armagetron Advanced default server port,4534,Unofficial,False,True
+TheòsMessenger third port for service TheòsMessenger[citation needed],43048,Official,True,False
+KGS Go Server,2379,Unofficial,True,False
+rsync file synchronization protocol,873,Official,True,False
+rlogin,513,Official,True,False
+Who[21],513,Official,False,True
+TheòsMessenger second port for service TheòsMessenger[citation needed],43047,Official,True,False
+Default for BMC Software Control-M/Server—to allow the Control-M/Enterprise Manager to connect to the Control-M/Server, though often changed during installation,2370,Official,True,False
+Opsware agent (aka cogbot),1002,Unofficial,True,False
+Talk,517,Official,False,True
+Nintendo Wi-Fi Connection[118],29920,Unofficial,False,False
+ASF Remote Management and Control Protocol (ASF-RMCP),623,Official,False,True
+ColdFusion Macromedia/Adobe ColdFusion default and Duke Nukem 3D—default,8500,Unofficial,True,True
+HTTPS listener for Apache Synapse [97],8243,Official,True,True
+TGP, TrulyGlobal Protocol, also known as "The Gur Protocol" (named for Gur Kimchi of TrulyGlobal),1223,Official,True,True
+QuickTime Streaming Server administration,1220,Official,True,False
+Gadu-Gadu,8074,Unofficial,True,False
+Munin Resource Monitoring Tool,4949,Official,True,False
+mngsuite, LANDesk Management Suite Remote Control,9535,Official,True,True
+Internet Content Adaptation Protocol,1344,Official,True,False
+VoiceIP-ACS UMP default device provisioning endpoint (SSL)[citation needed],10302,Unofficial,True,False
+VoiceIP-ACS UMP default device provisioning endpoint[citation needed],10301,Unofficial,True,False
+AVM CAPI-over-TCP (ISDN over Ethernet tunneling)[citation needed],5031,Unofficial,True,True
+Winbox—Default on a MikroTik RouterOS for a Windows application used to administer MikroTik RouterOS[citation needed],8291,Unofficial,True,False
+Privoxy—advertisement-filtering Web proxy,8118,Official,True,False
+Jeex.EU Artesia (direct client-to-db.service),15556,Unofficial,True,True
+NSCA (Nagios),5667,Unofficial,True,False
+NRPE (Nagios),5666,Unofficial,True,False
+BGP (Border Gateway Protocol),179,Official,True,False
+psyBNC,15000,Unofficial,True,False
+Wesnoth,15000,Unofficial,True,False
+Kaspersky Network Agent[citation needed],15000,Unofficial,True,False
+hydap, Hypack Hydrographic Software Packages Data Acquisition,15000,Official,True,False
+hydap, Hypack Hydrographic Software Packages Data Acquisition,15000,Official,False,True
+X Display Manager Control Protocol (XDMCP),177,Official,True,True
+VMNET (IBM z/VM, z/OS & z/VSE - Network Job Entry(NJE)),175,Official,True,False
+JOSM Remote Control,8111,Unofficial,True,False
+Check Point Cluster Control Protocol,8116,Unofficial,False,True
+Default for YSFlight server[90],7915,Unofficial,True,False
+Print-srv, Network PostScript,170,Official,True,False
+Tunngle,11155,Unofficial,True,True
+knetd Kerberos de-multiplexor,2053,Unofficial,True,False
+softcm, HP Softbench CM,6110,Official,True,True
+Network File System (protocol) over IPv6 Service,973,Unofficial,False,True
+ProRat Server,5110,Unofficial,True,False
+Civilization 4 multiplayer,2056,Unofficial,False,True
+Subversion (SVN) version control system,3690,Official,True,True
+Manic Digger default single player port,25570,Unofficial,False,False
+Gobby (and other libobby-based software),6522,Unofficial,True,False
+APRS UI-View Amateur Radio[111] UI-WebServer,14439,Unofficial,True,False
+Media Management System (MMS) Media Management Protocol (MMP)[26],654,Official,True,False
+Windows Live Messenger (Whiteboard and Application Sharing),1503,Unofficial,True,True
+NetGuard GuardianPro firewall (NT4-based) Remote Management,1500,Unofficial,True,False
+NetGuard GuardianPro firewall (NT4-based) Authentication Client,1501,Unofficial,False,True
+SupportSoft Nexus Remote Command (data): A proxy gateway connecting remote control traffic,653,Official,True,True
+IEEE-MMS,651,Official,True,True
+MIS Department,2115,Unofficial,True,True
+HTTP/TCP Symon Communications Event and Query Engine[citation needed],8014,Unofficial,True,False
+Perseus SDR Receiver default remote connection port[citation needed],8014,Unofficial,True,True
+AberMUD and derivatives default port,6715,Unofficial,True,False
+Wavestore CCTV protocol[100],8601,Unofficial,True,False
+Back Orifice—remote administration tool (often Trojan horse),31337,Unofficial,True,False
+Sony PlayStation RemotePlay[103],9293,Unofficial,True,False
+Oracle Management Remote Agent[citation needed],3872,Unofficial,True,False
+MMTSG-mutualed over MMT (encrypted transmission),32245,Unofficial,True,False
+Openfire Administration Console (SSL Secured),9091,Unofficial,True,False
+Transmission (BitTorrent client) Web Interface,9091,Unofficial,True,False
+Microsoft Message Queuing,3527,Official,False,True
+EDI service[121],34567,Official,True,False
+VPOP3 Mail Server Status[citation needed],5109,Unofficial,True,True
+Open Object Rexx (ooRexx) rxapi daemon,10010,Official,True,False
+AIX,NeXT, HPUX—rexd daemon control[citation needed],10017,Unofficial,False,False
+Savage:Battle for Newerth Server Hosting[citation needed],11235,Unofficial,False,False
+IBM Tivoli Framework NetCOOL/Impact[69] HTTP Service,5104,Unofficial,True,False
+HTTP alternate, VibeStreamer, e.g. McAfee ePolicy Orchestrator (ePO),8081,Unofficial,True,False
+Active Users (systat service)[5][6],11,Official,True,True
+Unassigned,10,Official,True,True
+Daytime Protocol (RFC 867),13,Official,True,True
+Unassigned,12,Official,True,True
+Previously netstat service[5],15,Unofficial,True,True
+Unassigned,14,Official,True,True
+Quote of the Day,17,Official,True,True
+Unassigned,16,Official,True,True
+Character Generator Protocol (CHARGEN),19,Official,True,True
+Message Send Protocol,18,Official,True,True
+TWAMP control (RFC 5357),862,Official,True,True
+Ontolux Ontolux 2D,13195-13196,Unofficial,True,True
+Google Desktop Search,4664,Unofficial,True,False
+Light Weight Access Point Protocol (LWAPP) LWAPP data (RFC 5412),12222,Official,False,True
+Light Weight Access Point Protocol (LWAPP) LWAPP control (RFC 5412),12223,Official,False,True
+Citel / MCK IVPIP,2698,Official,True,True
+NetBus—remote administration tool (often Trojan horse). Also used by NetBuster. Little Fighter 2 (TCP).,12345,Unofficial,False,False
+commplex-link,5001,Official,True,False
+Slingbox and Slingplayer,5001,Unofficial,True,False
+Iperf (Tool for measuring TCP and UDP bandwidth performance),5001,Unofficial,True,False
+Iperf (Tool for measuring TCP and UDP bandwidth performance),5001,Unofficial,False,True
+Synology Inc. Secured Management Console, File Station, Audio Station,5001,Unofficial,True,False
+RTPS (Real Time Publish Subscribe) DDS Meta-Traffic,7402,Official,True,True
+cddbp-alt, CD DataBase (CDDB) protocol (CDDBP) alternate,8880,Official,False,True
+cddbp-alt, CD DataBase (CDDB) protocol (CDDBP) alternate,8880,Official,True,False
+WebSphere Application Server SOAP connector default,8880,Unofficial,True,False
+Win Media Streamer to Server SOAP connector default,8880,Unofficial,True,False
+udt_os, IBM UniData UDT OS[56],3900,Official,True,False
+passwd_server, Kerberos Password (kpasswd) server,752,Unofficial,False,True
+cddbp, CD DataBase (CDDB) protocol (CDDBP),888,Unofficial,True,False
+EPOS Speech Synthesis System,8778,Unofficial,True,False
+Tardis Beacon Tcp-control of first worm that re-writes time by compiling from code in cleartext.,4665,Official,True,False
+Splunk Daemon,8089,Unofficial,True,False
+DART Reporting server[citation needed],20014,Unofficial,True,False
+Tor,9050,Unofficial,True,False
+Tor,9051,Unofficial,True,False
+Lightweight Directory Access Protocol (LDAP),389,Official,True,True
+IBM RMC (Remote monitoring and Control) protocol, used by System p5 AIX Integrated Virtualization Manager (IVM)[27] and Hardware Management Console to connect managed logical partitions (LPAR) to enable dynamic partition reconfiguration,657,Official,True,True
+WhiskerControl research control protocol,3233,Official,True,True
+Galaxy Network Service (Gateway Ticketing Systems),3235,Official,True,True
+Diablo II game,4000,Unofficial,True,True
+Microsoft Ants game,4001,Unofficial,True,False
+Cisco IOS IP Service Level Agreements (IP SLAs) Control Protocol[citation needed],1967,Unofficial,False,True
+ICQ and AOL Instant Messenger,5190,Official,True,False
+PrintBuzzer printer monitoring socket server[citation needed],4007,Unofficial,True,False
+MapleStory Game Server,8585,Unofficial,True,False
+Precision time protocol general messages,320,Official,False,True
+MapleStory Game Server,8588,Unofficial,True,False
+OpenTTD game,3979,Unofficial,True,True
+OpenTTD game (masterserver and content service),3978,Unofficial,True,True
+VNC remote desktop protocol—for use over HTTP,5800,Unofficial,True,False
+MonkeyCom[citation needed],9898,Official,False,True
+MonkeyCom[citation needed],9898,Official,True,False
+Tripwire—File Integrity Monitoring Software[citation needed],9898,Unofficial,True,False
+Oracle Universal Content Management Content Server,16200,Unofficial,True,False
+Audition Online Dance Battle, AsiaSoft SEA Server—FAM Database,18306,Unofficial,True,True
+Teamware Office MIME Connector,25007,Official,True,False
+Teamware Office standard client connection,25000,Official,True,False
+Audition Online Dance Battle, AsiaSoft SEA Server,18301,Unofficial,True,True
+Audition Online Dance Battle, AsiaSoft SEA Server—Status/Version Check,18300,Unofficial,True,True
+The Quick Mail Transfer Protocol,209,Official,True,True
+AMLFilter, AMLFilter Inc. amlf-engine-01 default https port,21012,Unofficial,True,False
+AMLFilter, AMLFilter Inc. amlf-engine-01 default http port,21011,Unofficial,True,False
+priv-rjs protocol which is considered unsafe by Google Chrome[10],77,Unofficial,False,False
+NETRJS protocol,74,Official,True,False
+NETRJS protocol,73,Official,True,False
+NETRJS protocol,72,Official,True,False
+NETRJS protocol,71,Official,True,False
+Gopher protocol,70,Official,True,False
+APC PowerChute Network [1],3052,Official,True,True
+gds_db (Interbase/Firebird),3050,Official,True,True
+Galaxy Server (Gateway Ticketing Systems),3051,Official,True,True
+Discard Protocol,9,Official,True,True
+Wake-on-LAN,9,Unofficial,False,True
+mdbe daemon,800,Official,False,True
+eMule optional web interface[60],4711,Unofficial,True,False
+McAfee Web Gateway 7 - Default GUI Port HTTP[citation needed],4711,Unofficial,True,False
+McAfee Web Gateway 7 - Default GUI Port HTTPS[citation needed],4712,Unofficial,True,False
+PulseAudio sound server,4713,Unofficial,True,False
+NetWare Core Protocol (NCP) is used for a variety things such as access to primary NetWare server resources, Time Synchronization, etc.,524,Official,True,True
+VPOP3 Mail Server Webmail[citation needed],5108,Unofficial,True,False
+Cisco Unified Video Advantage[citation needed],5445,Unofficial,False,True
+Farming Simulator 2011 Default Server[citation needed],10823,Unofficial,False,True
+Computer Associates Desktop and Server Management (DMP)/Port Multiplexer [61],4728,Official,True,False
+Control And Provisioning of Wireless Access Points (CAPWAP) CAPWAP control[73],5246,Official,False,True
+cft-1 to cft-7,1762–1768,Official,True,True
+Microsoft Key Management Service for KMS Windows Activation,1688,Unofficial,True,False
+Backup Exec Agent Browser[citation needed],6101,Unofficial,True,False
+cft-0,1761,Official,False,True
+cft-0,1761,Official,True,False
+Novell Zenworks Remote Control utility,1761,Unofficial,True,False
+Ensim Control Panel[citation needed],19638,Unofficial,True,False
+TeamViewer remote desktop protocol,5938,Unofficial,True,True
+Arcserve backup,6050,Unofficial,True,False
+Nortel software[citation needed],6050,Unofficial,True,False
+AutoNOC protocol,1140,Official,True,True
+HyperVM HTTP,8887,Official,True,False
+PxPlus Client server interface ProvideX,4093,Official,True,True
+ATMP Ascend Tunnel Management Protocol[70],5150,Official,True,True
+Malware Cerberus RAT[citation needed],5150,Unofficial,True,True
+Doom, first online first-person shooter,666,Official,False,True
+airserv-ng, aircrack-ng's server for remote-controlling wireless devices,666,Unofficial,True,False
+MasterPort - WarZ,34000,Unofficial,False,False
+NSClient/NSClient++/NC_Net (Nagios),12489,Unofficial,True,False
+Network UPS Tools (NUT),3493,Official,True,True
+Mac OS X Server administration,660,Official,True,False
+CPanel default Web mail,2095,Unofficial,True,False
+Super Dancer Online Extreme(SDO-X)—CiB Net Station Malaysia Server[citation needed],18010,Unofficial,True,False
+BINKP, Fidonet mail transfers over TCP/IP,24554,Official,True,True
+4D database DB4D Communication[citation needed],19814,Unofficial,True,False
+Immunet Protect (UDP in version 2.0,[119] TCP since version 3.0[120]),32137,Unofficial,True,True
+4D database SQL Communication[citation needed],19812,Unofficial,True,False
+4D database Client Server Communication[citation needed],19813,Unofficial,True,False
+SMTP alternate[citation needed],2525,Unofficial,True,False
+Laplink,1547,Official,True,True
+Web caches and the default for the Squid (software),3128,Unofficial,True,False
+Tatsoft default client connection[citation needed],3128,Unofficial,True,False
+Default for BMC Software Control-M/Server—Socket used for communication between Control-M processes—though often changed during installation,6005,Official,True,False
+Default for Camfrog chat & cam client,6005,Unofficial,True,False
+X11—used between an X client and server over the network,6000,Official,True,False
+X11—used between an X client and server over the network,6001,Official,False,True
+Apple Remote Desktop reporting (officially Net Assistant, referring to an earlier product),3283,Official,True,False
+Oracle database listening for SSL client connections to the listener,2484,Official,True,True
+ACR/NEMA Digital Imaging and Communications in Medicine (DICOM),11112,Official,True,True
+Oracle database listening for unsecure client connections to the listener, replaces port 1521,2483,Official,True,True
+OrientDB database listening for HTTP client connections,2480,Official,True,False
+Activision's Enemy Territory and id Software's Quake III Arena, Quake III and Quake Live and some ioquake3 derived games (OpenArena incoming),27960-27969,Unofficial,False,True
+commerce (Commerce Applications),542,Official,True,True
+klogin, Kerberos login,543,Official,True,False
+UUCP (Unix-to-Unix Copy Protocol),540,Official,True,False
+DHCPv6 client,546,Official,True,True
+DHCPv6 server,547,Official,True,True
+kshell, Kerberos Remote shell,544,Official,True,False
+OSIsoft PI (VMS), OSISoft PI Server Client Access,545,Unofficial,True,False
+Unassigned,8,Official,True,True
+Apple Filing Protocol (AFP) over TCP,548,Official,True,False
+BitTorrent part of full range of ports used most often,6889–6890,Unofficial,True,True
+StepMania: Online: Dance Dance Revolution Simulator,24842,Unofficial,False,False
+Post Office Protocol 3 over TLS/SSL (POP3S),995,Official,True,False
+Perfect World International Used by the Perfect World International Client,29000,Unofficial,False,False
+Festival Speech Synthesis System,1314,Unofficial,True,False
+Xbiim (Canvii server)[citation needed],1313,Unofficial,True,False
+Session Initiation Protocol (SIP),5060,Official,True,True
+Dell OpenManage HTTPS,1311,Official,True,False
+Reserved[1],1024,Official,True,True
+ScimoreDB Database System,999,Unofficial,True,False
+Native IPv6 behind IPv4-to-IPv4 NAT Customer Premises Equipment (6a44)[42],1027,Official,False,True
+Zabbix-Trapper,10051,Official,True,True
+Zabbix-Agent,10050,Official,True,True
+ODMR, On-Demand Mail Relay,366,Official,True,True
+Sun Grid Engine—Qmaster Service,6444,Official,True,True
+Often used by Microsoft DCOM services,1026,Unofficial,True,False
+Formerly Unisys Unitary Login, renamed by Unisys to NXEdit. Used by Unisys Programmer's Workbench for Clearpath MCP, an IDE for Unisys MCP software development,126,Official,True,True
+CompressNET[2] Management Utility[3],2,Official,True,True
+360Works SuperContainer[94],8020,Unofficial,True,False
+IGRS,3880,Official,True,True
+Default for Tidal Enterprise Scheduler master-Socket used for communication between Agent-to-Master, though can be changed[citation needed],5591,Unofficial,True,False
+Sun Grid Engine—Execution Service,6445,Official,True,True
+NetSupport Manager,5421,Official,True,True
+SANE (Scanner Access Now Easy)—SANE network scanner daemon,6566,Unofficial,True,False
+Speech-Dispatcher daemon,6560-6561,Unofficial,True,False
+OWAMP control (RFC 4656),861,Official,True,True
+Iron Mountain LiveVault Agent[citation needed],2145,Unofficial,True,False
+Iron Mountain LiveVault Agent[citation needed],2144,Unofficial,True,False
+TDMoIP (RFC 5087),2142,Official,False,True
+iSCSI (RFC 3720),860,Official,True,False
+xmlBlaster,3412,Official,True,True
+MapleStory Game Server,8586,Unofficial,True,False
+cadsi-lm, LMS International (formerly Computer Aided Design Software, Inc. (CADSI)) LM,1387,Official,True,True
+WinMX (see also 6699),6257,Unofficial,False,True
+Server for the DAI family of client-server products[citation needed],45824,Official,True,False
+WarMUX game server,3826,Official,True,True
+Used by RedSeal Networks client/server connection[citation needed],3826,Unofficial,True,False
+Precision time protocol event messages,319,Official,False,True
+PKIX TSP, Time Stamp Protocol,318,Official,True,True
+Default for Apache Solr [101],8983,Unofficial,True,False
+Kega Fusion, a Sega multi-console emulator[76][77],5394,Unofficial,False,True
+AcceleNet Intelligent Transfer Protocol,1182,Official,True,True
+Mac OS X Server Admin (officially AppleShare IP Web administration),311,Official,True,False
+Used by "Ace of Spades" game,32887,Unofficial,True,False
+WebSM,9090,Unofficial,True,True
+Webwasher, Secure Web, McAfee Web Gateway - Default Proxy Port[citation needed],9090,Unofficial,True,False
+Openfire Administration Console,9090,Unofficial,True,False
+SqueezeCenter control (CLI),9090,Unofficial,True,False
+EMCADS service, a Giritech product used by G/On,3945,Official,True,True
+spc, HP Softbench Sub-Process Control,6111,Official,True,True
+IBM Tivoli monitoring console,1920,Unofficial,True,False
+Sony PlayStation Vita Host Collaboration WiFi Data Transfer[104],9309,Unofficial,True,True
+CyBro A-bus, Cybrotech Ltd.,8442,Official,True,True
+SW Soft Plesk Control Panel, Apache Tomcat SSL, Promise WebPAM SSL, McAfee ePolicy Orchestrator (ePO),8443,Unofficial,True,False
+Sphinx Native API,9306,Official,True,False
+Default for Tidal Enterprise Scheduler client-Socket used for communication between Client-to-Master, though can be changed[citation needed],6702,Unofficial,True,False
+IBM Cognos 8 SOAP Business Intelligence and Performance Management,9300,Unofficial,True,False
+Aleph One (game),4226,Unofficial,True,True
+D-Link Shareport Share storage and MFP printers,9303,Unofficial,False,True
+SafeNet, Inc Sentinel LM, Sentinel RMS, License Manager, Server-to-Server,5099,Official,True,True
+Dantz Retrospect,497,Official,True,False
+HyperVM HTTPS,8888,Official,True,False
+Freenet HTTP,8888,Unofficial,True,False
+NewsEDGE server,8888,Official,True,True
+Sun Answerbook dwhttpd server (deprecated by docs.sun.com),8888,Unofficial,True,False
+GNUmp3d HTTP music streaming and Web interface,8888,Unofficial,True,False
+LoLo Catcher HTTP Web interface (www.optiform.com),8888,Unofficial,True,False
+D2GS Admin Console Telnet administration console for D2GS servers (Diablo 2),8888,Unofficial,True,False
+Earthland Relams 2 Server (AU1_2)[citation needed],8888,Unofficial,True,False
+MAMP Server,8888,Unofficial,True,False
+www.SmartSystemsLLC.com Used by Smart Sale 5.0[citation needed],28395,Unofficial,True,False
+PPM3 (Padtec Management Protocol version 3),8886,Unofficial,True,False
+SafeNet, Inc Sentinel LM, Sentinel RMS, License Manager, Client-to-Server,5093,Official,False,True
+STUN, a protocol for NAT traversal[53],3478,Official,True,True
+TURN, a protocol for NAT traversal[54],3478,Official,True,True
+Atlasz Informatics Research Ltd Secure Application Server[citation needed],8881,Unofficial,True,False
+Netflexity Inc QFlex - IBM WebSphere MQ monitoring software.,8881,Unofficial,True,False
+Microsoft Remote Web Workplace administration,4125,Unofficial,True,False
+Atlasz Informatics Research Ltd Secure Application Server[citation needed],8882,Unofficial,True,False
+CompressNET[2] Compression Process[4],3,Official,True,True
+Rpc2portmap,369,Official,True,True
+Audition Online Dance Battle, KAIZEN Brazil Server—Status/Version Check,18400,Unofficial,True,True
+Audition Online Dance Battle, KAIZEN Brazil Server,18401,Unofficial,True,True
+War of No Return Server Port[citation needed],26850,Unofficial,True,False
+Mu Online Connect Server,44405,Unofficial,True,False
+Bryan Wilcutt T2-NMCS Protocol for SatCom Modems,7023,Official,False,True
+Database mirroring endpoints[citation needed],7022,Unofficial,True,False
+HP data alarm manager,383,Official,True,True
+A Remote Network Server System,384,Official,True,True
+Microsoft-DS Active Directory, Windows shares,445,Official,True,False
+Microsoft-DS SMB file sharing,445,Official,True,False
+Zimbra LMTP [mailbox]—local mail delivery,7025,Unofficial,True,False
+AURP, AppleTalk Update-based Routing Protocol[20],387,Official,True,True
+RADIUS change of authorization,3799,Unofficial,False,True
+Mac OS X Server Web (HTTP) service with performance cache[112],16080,Unofficial,True,False
+ThoughtSignal—Server Communication Service (often Informational),31415,Unofficial,False,False
+Osorno Automation Protocol (OSAUT),6679,Official,True,True
+IRC SSL (Secure Internet Relay Chat)—often used,6679,Unofficial,True,False
+Pichat Server—Peer to peer chat software,9009,Official,True,True
+radius auth, RADIUS authentication protocol (default for Cisco and Juniper Networks RADIUS servers, but see port 1812 below),1645,Unofficial,True,True
+K2 - KeyAuditor & KeyServer, Sassafras Software Inc. Software Asset Management tools,19283,Official,True,True
+radius acct, RADIUS authentication protocol (default for Cisco and Juniper Networks RADIUS servers, but see port 1813 below),1646,Unofficial,True,True
+Conserver serial-console management server,782,Unofficial,True,False
+SpamAssassin spamd daemon,783,Unofficial,True,False
+BladeLogic Agent,4750,Unofficial,True,False
+RTPS (Real Time Publish Subscribe) DDS User-Traffic,7401,Official,True,True
+Control And Provisioning of Wireless Access Points (CAPWAP) CAPWAP data[73],5247,Official,False,True
+Valve Steam Client,1725,Unofficial,False,True
+Microsoft Point-to-Point Tunneling Protocol (PPTP),1723,Official,True,True
+H.323 Call signalling,1720,Official,True,False
+RTPS (Real Time Publish Subscribe) DDS Discovery,7400,Official,True,True
+Blood Quest Online Server[citation needed],11294,Unofficial,False,False
+Newforma Server comms,9002,Unofficial,False,False
+Lantronix Discovery for Lantronix serial-to-ethernet devices,30718,Unofficial,False,True
+Line Printer Daemon—print service,515,Official,True,False
+ETL Service Manager[102],9001,Official,True,True
+Microsoft SharePoint authoring environment,9001,Unofficial,False,False
+cisco-xremote router configuration[citation needed],9001,Unofficial,False,False
+Tor network default,9001,Unofficial,False,False
+DBGp Proxy,9001,Unofficial,True,False
+HSQLDB default port,9001,Unofficial,True,False
+Console Gateway License Verification,8100,Unofficial,True,False
+Default port for most Endless Online-based servers[citation needed],8078,Unofficial,True,True
+Buffalo LinkSystem Web access[citation needed],9000,Unofficial,True,False
+DBGp,9000,Unofficial,True,False
+SqueezeCenter web server & streaming,9000,Unofficial,True,False
+UDPCast,9000,Unofficial,False,True
+Play! Framework web server[citation needed],9000,Unofficial,True,False
+BitTorrent,30301,Unofficial,False,False
+TiVoConnect Beacon[citation needed],2190,Unofficial,False,True
+Miralix InfoLink[citation needed],3004,Unofficial,True,False
+Miralix OM Server[citation needed],3007,Unofficial,True,False
+phone, conference calling,1167,Unofficial,False,True
+Miralix Phone Monitor[citation needed],3001,Unofficial,True,False
+Opsware server (Satellite),3001,Unofficial,True,False
+Apple Push Notification service Link,2195,Unofficial,True,False
+Apple Push Notification - Feedback Link,2196,Unofficial,True,False
+Miralix CSTA[citation needed],3002,Unofficial,True,False
+Bootstrap Protocol (BOOTP) Client; also used by Dynamic Host Configuration Protocol (DHCP),68,Official,False,True
+Trivial File Transfer Protocol (TFTP),69,Official,False,True
+SFLM (Standard Floating License Manager),3162,Official,True,True
+Cube 2 Sauerbraten[116],28785,Unofficial,False,True
+Cube 2 Sauerbraten Port 2[116],28786,Unofficial,False,True
+Tuxanci game server[48],2200,Unofficial,False,True
+Timbuktu Service 4 Port,1420,Official,True,True
+Cisco VQP (VLAN Query Protocol) / VMPS,1589,Unofficial,False,True
+corbaloc:iiop URL, per the CORBA 3.0.3 specification,2809,Official,True,False
+IBM WebSphere Application Server (WAS) Bootstrap/rmi default,2809,Unofficial,True,False
+corbaloc:iiop URL, per the CORBA 3.0.3 specification.,2809,Official,False,True
+Pervasive PSQL,1583,Unofficial,True,False
+MIL STD 2045-47001 VMF,1581,Official,False,True
+BACnet Building Automation and Control Networks (4780810 = BAC016),47808,Official,True,True
+IEC 60870-5 -104, used to send electric power telecontrol messages between two systems via directly connected data circuits,2404,Official,True,False
+Linden Lab viewer to sim on SecondLife[citation needed],12035,Unofficial,False,True
+Hall Research Device discovery and configuration,6324,Official,True,True
+Default for BMC Software Control-M/Server—Configuration Agent, though often changed during installation,2369,Official,True,False
+OpenERP Legacy netrpc protocol,8070,Unofficial,True,False
+Citadel—multiservice protocol for dedicated clients for the Citadel groupware system,504,Official,True,True
+Modbus, Protocol,502,Unofficial,True,True
+LarmX.com™ database update mtr port[citation needed],43034,Unofficial,True,True
+Internet Security Association and Key Management Protocol (ISAKMP),500,Official,False,True
+Axence nVision[citation needed],37659,Unofficial,True,False
+Sonic Robo Blast 2 : Multiplayer[66],5029,Unofficial,True,False
+Internet Printing Protocol (IPP),631,Official,True,True
+Common Unix Printing System (CUPS),631,Unofficial,True,True
+Symantec i3 Web GUI server,20720,Unofficial,True,False
+Uvora Online,1217,Unofficial,True,False
+Kazaa,1214,Official,True,False
+OpenERP Default HTTP port (web interface and xmlrpc calls),8069,Unofficial,True,False
+Westell Remote Access,2420,Official,False,True
+IBM Lotus Notes/Domino[45] (RPC) protocol,1352,Official,True,False
+OrientDB database listening for Binary client connections,2424,Official,True,False
+Resource Location Protocol[7] (RLP)—used for determining the location of higher level services from hosts on a network,39,Official,True,True
+Tripwire,1169,Official,True,True
+Freeciv versions up to 2.0, Hewlett-Packard Data Protector, McAfee EndPoint Encryption Database Server, SAP, Default for Microsoft Dynamics CRM 4.0,5555,Unofficial,True,False
+MSNP (Microsoft Notification Protocol), used by the Microsoft Messenger service and a number of Instant Messaging clients,1863,Official,True,False
+Freeciv,5556,Official,True,True
+I2P HTTP/S proxy,4444-4445,Unofficial,True,False
+Hewlett-Packard Data Protector[citation needed],5550,Unofficial,True,False
+Hosting Accelerator Control Panel,8087,Unofficial,True,False
+Parallels Plesk Control Panel,8087,Unofficial,True,False
+Kaspersky AV Control Center,8087,Unofficial,False,True
+Used by some Blizzard games[43],3724,Official,True,True
+Club Penguin Disney online game for kids,3724,Unofficial,True,False
+NetSupport Manager,5405,Official,True,True
+Simple Network Management Protocol (SNMP),161,Official,False,True
+Simple Network Management Protocol Trap (SNMPTRAP)[18],162,Official,True,True
+URL Rendesvous Directory for SSM (Cisco protocol),465,Official,True,False
+Digital Audio Access Protocol (DAAP)—used by Apple’s iTunes and AirPort Express,3689,Official,True,False
+TMO Integration Service Communications Port, Used by Transaction Manager SaaS (HighJump Software)[citation needed],29292,Unofficial,True,False
+VMware Server Alternate (if 902 is in use, i.e. SUSE linux),904,Unofficial,True,False
+App Discovery and Access Protocol,6350,Official,True,True
+Xfire,25999,Unofficial,True,False
+JD Edwards EnterpriseOne ERP system JDENet messaging client listener,6009,Unofficial,True,False
+MapleStory Game Server,8589,Unofficial,True,False
+Netop Business Solutions - NetOp School[citation needed],6503,Unofficial,False,True
+Willy,2518,Official,True,True
+zephyr-clt Project Athena Zephyr Notification Service serv-hm connection,2103,Official,True,True
+zephyr-srv Project Athena Zephyr Notification Service server,2102,Official,True,True
+MooseFS distributed file system—master server to clients,9421,Unofficial,True,False
+Arcserve backup,6051,Unofficial,True,False
+LM-MON (Standard Floating License Manager LM-MON),31620,Official,True,True
+IBM MiniPay,2105,Official,True,True
+eklogin Kerberos encrypted remote login (rlogin),2105,Unofficial,True,True
+zephyr-hm-srv Project Athena Zephyr Notification Service hm-serv connection (should use port 2102),2105,Unofficial,True,True
+zephyr-hm Project Athena Zephyr Notification Service hostmanager,2104,Official,True,True
+NetIQ Monitor Console,2735,Official,True,True
+Diameter base protocol (RFC 3588),3868,Official,True,True
+Webmin—Web-based administration tool for Unix-like systems,10000,Unofficial,False,False
+BackupExec,10000,Unofficial,False,False
+Ericsson Account Manager (avim)[citation needed],10000,Unofficial,False,False
+Lantronix UDS-10/UDS100[106] RS-485 to Ethernet Converter default,10001,Unofficial,True,False
+Extensible Messaging and Presence Protocol (XMPP)[75],5298,Official,True,True
+Internet Relay Chat (IRC),6660–6664,Unofficial,True,False
+CrashPlan,4243,Unofficial,True,False
+TIME protocol,37,Official,True,True
+Solve Service,2636,Official,True,False
+Octopus Multiplexer, primary port for the CROMP protocol, which provides a platform-independent means for communication of objects across a network,10008,Official,True,True
+CodeMeter, WIBU-SYSTEMS AG Software protection system,22350,Official,True,True
+Polycom server broadcast[citation needed],6771,Unofficial,False,True
+SMTP alternate[55],3535,Unofficial,True,False
+Folding@home v7 default for client control interface,36330,Unofficial,True,False
+ni-visa-remote[citation needed],3537,Unofficial,True,True
+Precise TPM Web GUI server,20790,Unofficial,True,False
+Gobby 0.5 (and other libinfinity-based software),6523,Unofficial,True,False
+Yahoo! Messenger,5050,Unofficial,True,False
+ita-agent Symantec Intruder Alert[67],5051,Official,True,False
+Bacula Storage Daemon,9103,Official,True,True
+Cisco Tag Distribution Protocol[33][34][35]—being replaced by the MPLS Label Distribution Protocol[36],711,Official,True,False
+SupportSoft Nexus Remote Command (control/listening): A proxy gateway connecting remote control traffic,641,Official,True,True
+Lightweight Directory Access Protocol over TLS/SSL (LDAPS),636,Official,True,True
+radius, RADIUS authentication protocol,1812,Official,True,True
+radacct, RADIUS accounting protocol,1813,Official,True,True
+Operations Manager[81],5723,Unofficial,True,False
+Kaseya[citation needed],5721,Unofficial,True,True
+Standard Minecraft Pocket Edition LAN Server,19132,Unofficial,False,True
+iChat server file transfer proxy,7777,Unofficial,True,False
+Oracle Cluster File System 2[citation needed],7777,Unofficial,True,False
+Windows backdoor program tini.exe default[citation needed],7777,Unofficial,True,False
+Xivio default Chat Server[citation needed],7777,Unofficial,True,False
+Terraria default server,7777,Unofficial,True,False
+San Andreas Multiplayer default server,7777,Unofficial,False,True
+Unreal Tournament series default server[citation needed],7777-7788,Unofficial,False,True
+Unreal Tournament series default server[citation needed],7777-7788,Unofficial,True,False
+ACAP (Application Configuration Access Protocol),674,Official,True,False
+MapleStory Game Server,8587,Unofficial,True,False
+mobrien-chat(http://chat.mobrien.com:2031),2031,Official,True,True
+Oracle services for Microsoft Transaction Server,2030,Unofficial,False,False
+SWAT 4 Dedicated Server[citation needed],10480,Unofficial,False,False
+Web Fresh Communication, Quadrion Software & Odorless Entertainment,4847,Official,True,True
+OPC UA TCP Protocol for OPC Unified Architecture from OPC Foundation,4840,Official,True,True
+OPC UA TCP Protocol over TLS/SSL for OPC Unified Architecture from OPC Foundation,4843,Official,True,True
+Brocade SMI-S RPC,897,Unofficial,True,True
+Brocade SMI-S RPC SSL,898,Unofficial,True,True
+K3 SYSPRO K3 Framework WCF Backbone[citation needed],14900,Unofficial,True,False
+Campbell Scientific Loggernet Software[85],6789,Unofficial,True,False
+Bucky's Instant Messaging Program,6789,Unofficial,True,False
+git, Git pack transfer service,9418,Official,True,True
+EMC CLARiiON,6389,Unofficial,True,False
+OSIsoft PI Notifications Client Access,5458,Unofficial,True,False
+WebSphere Application Server Administration Console secure,9043,Unofficial,True,False
+Hypertext Transfer Protocol (HTTP),80,Official [11],True,False
+Teredo tunneling,3544,Official,False,True
+Bitcoin JSON-RPC server[98],8332,Unofficial,True,False
+HELM Web Host Automation Windows Control Panel,8086,Unofficial,True,False
+Kaspersky AV Control Center,8086,Unofficial,True,False
+protocol information and warnings,4018,Official,True,True
+HTTP alternate (http_alt)—commonly used for Web proxy and caching server, or for running a Web server as a non-root user,8080,Official,True,False
+Apache Tomcat,8080,Unofficial,True,False
+FilePhile Master/Relay,8080,Unofficial,False,True
+Vermont Systems / RecTrac Vermont Systems RecTrac (WebTrac) network installer,8080,Unofficial,True,False
+Default[110] for BMC Software Control-M/Enterprise Manager Corba communication, though often changed during installation,13075,Official,True,False
+Bitcoin[99],8333,Unofficial,True,False
+VMware Server Management User Interface[95] (secure Web interface).[96] See also port 8222,8333,Unofficial,True,False
+FCIP (Fiber Channel over Internet Protocol),3225,Official,True,True
+Cisco TCO (Documentation),1975–1977,Official,False,True
+gnutella-svc, gnutella (FrostWire, Limewire, Shareaza, etc.),6346,Official,True,True
+Asterisk (PBX) Web Configuration utility (GUI Addon),8088,Unofficial,True,False
+InterSystems Caché,1972,Official,True,True
+Netop Business Solutions Netop School,1971,Official,True,True
+Netop Business Solutions Netop Remote Control,1970,Official,True,True
+Microsoft Net.TCP Port Sharing Service,808,Official,True,False
+MATIP-Type B, Mapping of Airline Traffic over Internet Protocol,351,Official,True,True
+MATIP-Type A, Mapping of Airline Traffic over Internet Protocol,350,Official,True,True
+IBM Rational Developer for System z Remote System Explorer Daemon,4035,Unofficial,True,True
+Audition Online Dance Battle, G10/alaplaya Server,19001,Unofficial,True,True
+Audition Online Dance Battle, G10/alaplaya Server—Status/Version Check,19000,Unofficial,True,True
+JACK sound server,19000,Unofficial,False,True
+krbupdate [kreg], Kerberos registration,760,Unofficial,True,True
+MSDP, Multicast Source Discovery Protocol,639,Official,True,True
+Symantec AntiVirus Corporate Edition,2967,Unofficial,True,False
+Internetwork Packet Exchange (IPX),213,Official,True,True
+ANSI Z39.50,210,Official,True,True
+AMLFilter, AMLFilter Inc. amlf-admin default port,21001,Unofficial,True,False
+Belkin Network USB Hub[citation needed],19540,Unofficial,True,True
+Message posting protocol (MPP),218,Official,True,True
+WHOIS protocol,43,Official,True,False
+acmsoda,6969,Official,True,True
+BitTorrent tracker,6969,Unofficial,True,False
+PDTP—FTP like file server in a P2P network,6086,Official,True,False
+PandaROM Update Service Port,3040,Official,True,True
+Battlefield 2 and mods,16567,Unofficial,False,True
+DameWare Remote Control,6129,Official,True,False
+Philips TVs based on jointSPACE [49],2323,Unofficial,True,False
+Federal Emergency Management Information Systemhttp://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml,1776,Official,True,True
+Linksys PSUS4 print server[citation needed],34443,Unofficial,False,False
+McAfee Network Agent[citation needed],6646,Unofficial,False,True
+hddtemp - Utility to monitor hard drive temperature,7634,Unofficial,True,False
+Dezta software,33982,Unofficial,True,True
+SafetyNET p Real-time Industrial Ethernet protocol,40000,Official,True,True
+KeyShadow for K2 - KeyAuditor & KeyServer, Sassafras Software Inc. Software Asset Management tools,19315,Official,True,True
+Linden Lab viewer to sim on SecondLife[citation needed],13000–13050,Unofficial,False,True
+http-mgmt,280,Official,True,True
+Novell GroupWise clients in client/server access mode,1677,Official,True,True
+Cross Fire, a multiplayer online First Person Shooter[citation needed],13008,Unofficial,True,True
+glrpc, Groove Collaboration software GLRPC,9080,Official,False,True
+glrpc, Groove Collaboration software GLRPC,9080,Official,True,False
+WebSphere Application Server HTTP Transport (port 1) default,9080,Unofficial,True,False
+VMware Server Management User Interface[95] (insecure Web interface).[96] See also port 8333,8222,Unofficial,True,False
+SofaWare Technologies Remote HTTPS management for firewall devices running embedded Check Point FireWall-1 software,981,Unofficial,True,False
+Soldat Dedicated Server,23073,Unofficial,False,False
+Slim Devices discovery protocol,3483,Official,False,True
+Slim Devices SlimProto protocol,3483,Official,True,False
+AMQP,5672,Official,True,False
+rmiactivation, RMI Activation,1098,Official,True,True
+rmiregistry, RMI Registry,1099,Official,True,True
+Opera Unite server,8840,Unofficial,True,False
+Sinatra default server port in development mode (HTTP),4567,Unofficial,True,False
+BGMP, Border Gateway Multicast Protocol,264,Official,True,True
+Inter-Asterisk eXchange (IAX2),4569,Official,False,True
+Setiqueue Proxy server client for SETI@Home project,5517,Unofficial,True,False
+Sepialine Argos Communications port,7080,Unofficial,False,False
+Session Initiation Protocol (SIP) over TLS,5061,Official,True,False
+3m-image-lm Image Storage license manager 3M Company,1550,Official,True,True
+Gadu-Gadu (direct client-to-client),1550,Unofficial,False,False
+I2P SAM Bridge Socket API,7655,Unofficial,False,True
+XNS (Xerox Network Systems) Mail,58,Official,True,True
+Used by RedSeal Networks client/server connection[citation needed],3825,Unofficial,True,False
+ISI Graphics Language (ISI-GL),55,Official,True,True
+XNS (Xerox Network Systems) Clearinghouse,54,Official,True,True
+Mail Transfer Protocol (RFC 780),57,Official,True,False
+XNS (Xerox Network Systems) Authentication,56,Official,True,True
+Route Access Protocol (RAP)[9],56,Unofficial,True,True
+NetPanzer,3030,Unofficial,True,True
+Remote Mail Checking Protocol[8],50,Official,True,True
+Domain Name System (DNS),53,Official,True,True
+XNS (Xerox Network Systems) Time Protocol,52,Official,True,True
+Timbuktu Service 2 Port,1418,Official,True,True
+Timbuktu Service 3 Port,1419,Official,True,True
+SoftPerfect Bandwidth Manager,8701,Unofficial,False,True
+ESRO, Efficient Short Remote Operations,259,Official,True,True
+netwall, For Emergency Broadcasts,533,Official,False,True
+netnews,532,Official,True,False
+AOL Instant Messenger,531,Unofficial,True,True
+RPC,530,Official,True,True
+CI (Travelport) (formerly Covia) Comms Integrator,64,Official,True,True
+IBM WebSphere MQ (formerly known as MQSeries),1414,Official,True,False
+Default that will be used by the iControl Internet Cafe Suite Administration software,7890,Unofficial,True,False
+Timbuktu Service 1 Port,1417,Official,True,True
+Registered to: TelePath (the IBM FlowMark workflow-management system messaging platform)[65]
+The TCP port is now used for: IBM WebSphere MQ Workflow,5010,Official,True,True
+AppleTalk Routing Maintenance,201,Official,True,True
+Radmin remote administration tool,4899,Official,True,True
+FTPS Protocol (data): FTP over TLS/SSL,989,Official,True,True
+Miralix GreenBox API[citation needed],3003,Unofficial,True,False
+Teamware Office message transfer,25005,Official,True,False
+ESRI SDE Instance,5151,Official,True,False
+ESRI SDE Remote Start,5151,Official,False,True
+IMP Logical Address Maintenance,51,Official,True,True
+Bootstrap Protocol (BOOTP) Server; also used by Dynamic Host Configuration Protocol (DHCP),67,Official,False,True
+Killing Floor,7708,Unofficial,False,True
+BZFlag,5154,Official,True,True
+LysKOM Protocol A,4894,Official,True,True
+Simple File Transfer Protocol (SFTP),115,Official,True,False
+The Palace "The Palace" Virtual Reality Chat software.—5,9998,Official,True,True
+UUCP Path Service,117,Official,True,False
+ONC RPC (Sun RPC),111,Official,True,True
+Post Office Protocol v3 (POP3),110,Official,True,False
+Ident—Authentication Service/Identification Protocol,[14] used by IRC servers to identify users,113,Official,True,False
+Authentication Service[14] (auth),113,Official,False,True
+TinyMUD and various derivatives,4201,Unofficial,True,False
+Network News Transfer Protocol (NNTP)—retrieval of newsgroup messages,119,Official,True,False
+SQL (Structured Query Language) Services,118,Official,True,True
+Ryan's App "Ryan's App" Trading Software,9996,Official,True,True
+The Palace "The Palace" Virtual Reality Chat software.—5,9996,Official,True,True
+Sybase Advantage Database Server,6262,Unofficial,True,False
+planet M.U.L.E.,6260,Unofficial,True,True
+Nintendo Wi-Fi Connection[118],29900-29901,Unofficial,False,False
+VNC remote desktop protocol—for incoming listening viewer, Hotline control connection,5500,Unofficial,True,False
+Wolfson Microelectronics WISCEBridge Debug Protocol[114],22349,Unofficial,True,False
+Syslog over TLS[83],6514,Official,True,False
+Elipse RPC Protocol (REC),6515,Official,True,True
+Miralix Proxy[citation needed],3008,Unofficial,True,False
+ingreslock, ingres,1524,Official,True,True
+Undo License Manager,5281,Official,True,False
+Extensible Messaging and Presence Protocol (XMPP)[74],5281,Unofficial,True,False
+Oracle database common alternative for listener,1526,Unofficial,True,False
+Apache Derby Network Server default port,1527,Unofficial,True,False
+nCube License Manager,1521,Official,True,False
+Oracle database default listener, in future releases official port 2483,1521,Unofficial,True,False
+HDL Server from CNRI,2641,Official,True,True
+Network Console on Acid (NCA)—local tty redirection over OpenSSH,911,Unofficial,True,False
+Tragic,2642,Official,True,True
+Service Location Protocol (SLP),427,Official,True,True
+Vertel VMF SA (i.e. App.. SpeakFreely),2074,Official,True,True
+Novastor Online Backup,308,Official,True,False
+electric imp node<>server communication (TLS),31314,Unofficial,True,False
+Spiceworks Desktop, IT Helpdesk Software,9675,Unofficial,True,True
+Wavestore Notification protocol[100],8602,Unofficial,True,True
+Red Eclipse (Cube 2 derivative) default ports [117],28801 - 28802,Unofficial,False,True
+Bouwsoft file/webserver[78],5433,Unofficial,True,False
+ThinLinc Web Access,300,Unofficial,True,False
+TorgaNET (Micronational Darknet),5124,Unofficial,True,True
+Davis Instruments, WeatherLink IP,22222,Unofficial,True,False
+Smartcard-TLS,4116,Official,True,True
+iSCSI target,3260,Official,True,False
+memcached,11211,Unofficial,True,True
+Adobe Systems Macromedia Flash Real Time Messaging Protocol (RTMP) "plain" protocol,1935,Official,True,False
+Xgrid,4111,Official,True,False
+msft-gc-ssl, Microsoft Global Catalog over SSL (similar to port 3268, LDAP over SSL),3269,Official,True,True
+msft-gc, Microsoft Global Catalog (LDAP service which contains data from Active Directory forests),3268,Official,True,True
+Neverwinter Nights,5121,Unofficial,True,False
+DHCP Failover protocol,847,Official,True,False
+Bloomberg Application[citation needed],8195,Unofficial,True,False
+I2P anonymizing overlay network,7652-7654,Unofficial,True,False
+Adobe Flash[39],843,Unofficial,True,False
+GoldSrc and Source engine dedicated server port,27015,Unofficial,False,False
+Steam Downloads,27014-27050,Unofficial,True,False
+Source engine dedicated server port (rare),27014,Unofficial,False,False
+mongoDB server port,27017,Unofficial,False,False
+Magicka server port,27016,Unofficial,False,False
+Source engine dedicated server port,27010,Unofficial,False,False
+EPCglobal Low Level Reader Protocol (LLRP) over TLS,5085,Official,True,True
+EPCglobal Low Level Reader Protocol (LLRP),5084,Official,True,True
+NetBeans integrated development environment,24444,Unofficial,False,False
+FileMaker Data Access Layer (ODBC/JDBC),2399,Official,True,False
+CPE WAN Management Protocol Technical Report 069,7547,Official,True,True
+CCP's EVE Online Online gaming MMORPG,26900,Unofficial,True,False
+CCP's EVE Online Online gaming MMORPG,26901,Unofficial,True,False
+TelePath (the IBM FlowMark workflow-management system messaging platform)[65],5011,Official,True,True
+X-BEAT,18606,Unofficial,True,True
+X-BEAT—Status/Version Check,18605,Unofficial,True,True
+Music Player Daemon (MPD),6600,Unofficial,True,False
+Tor often used,9030,Unofficial,True,False
+LogMeIn Hamachi (VPN tunnel software; also port 12975)—used to connect to Mediation Server (bibi.hamachi.cc); will attempt to use SSL (TCP port 443) if both 12975 & 32976 fail to connect,32976,Unofficial,True,False
+Default for Cisco AON AMC (AON Management Console) [86],7010,Unofficial,True,False
+FLIR Systems Camera Resource Protocol,22136,Unofficial,True,False
+Big Brother and related Xymon (formerly Hobbit) System and Network Monitor,1984,Official,True,False
+Cisco HSRP,1985,Official,False,True
+SIMON (service and discovery),4753,Official,True,True
+Google Talk Voice and Video connections [113],19294,Unofficial,True,False
+Google Talk Voice and Video connections [113],19295,Unofficial,False,True
+Minger Email Address Verification Protocol[57],4069,Official,False,True
+Apprentice,4747,Unofficial,True,False
+Flatcast[122],40123,Unofficial,False,True
+shroudBNC,16000,Unofficial,True,False
+Audition Online Dance Battle R4p3 Server, Nexon Server—Status/Version Check,18505,Unofficial R4p3 Server,True,True
+Finger protocol,79,Official,True,False
+Audition Online Dance Battle, Nexon Server,18506,Unofficial,True,True
+BitTorrent part of full range of ports used most often,6902–6968,Unofficial,True,True
+Reverse Routing Header (rrh)[37],753,Official,True,False
+Reverse Routing Header (rrh),753,Official,False,True
+userreg_server, Kerberos userreg server,753,Unofficial,False,True
+Android ADB server,5037,Unofficial,True,False
+kerberos_master, Kerberos authentication,751,Unofficial,True,True
+kerberos-iv, Kerberos version IV,750,Official,False,True
+gsi ftp, per the GridFTP specification,2811,Official,True,False
+Splitlock Server,3606,Official,True,True
+ComCam IO Port,3605,Official,False,True
+tell send,754,Official,True,False
+krb5_prop, Kerberos v5 slave propagation,754,Unofficial,True,False
+tell send,754,Official,False,True
+rmonitor, Remote Monitor,560,Official,False,True
+monitor,561,Official,False,True
+NNTP protocol over TLS/SSL (NNTPS),563,Official,True,True
+LMP (Link Management Protocol (Internet)),[29] a protocol that runs between a pair of nodes and is used to manage traffic engineering (TE) links,701,Official,True,False
+EForward-document transport system,2181,Official,True,True
+Reserved[1],1109,Official,True,True
+Kerberos Post Office Protocol (KPOP),1109,Unofficial,True,False
+NAT / Xbox LIVE and/or Games for Windows - LIVE,3074,Official,True,True
+GE Smallworld Datastore Server (SWMFS/Smallworld Master Filesystem)[citation needed],1590,Unofficial,True,False
+BitTorrent part of full range of ports used most often,6881–6887,Unofficial,True,True
+LogMeIn Hamachi (VPN tunnel software; also port 32976)—used to connect to Mediation Server (bibi.hamachi.cc); will attempt to use SSL (TCP port 443) if both 12975 & 32976 fail to connect,12975,Unofficial,True,False
+MUSE,6888,Official,True,True
+BitTorrent part of full range of ports used most often,6888,Unofficial,True,True
+Internet Message Access Protocol (IMAP), version 3,220,Official,True,True
+NFS or IIS or Teradata,1025,Unofficial,True,False
+LeeCO POS Server Service,2212,Official,False,True
+LeeCO POS Server Service,2212,Official,True,False
+Port-A-Pour Remote WinBatch,2212,Unofficial,True,False
+EMWIN,2211,Official,False,True
+EMWIN,2211,Official,True,False
+MikroTik Secure management for "The Dude",2211,Unofficial,True,False
+NOAAPORT Broadcast Network,2210,Official,False,True
+NOAAPORT Broadcast Network,2210,Official,True,False
+MikroTik Remote management for "The Dude",2210,Unofficial,True,False
+VoIP program used by Ventrilo,3784,Unofficial,True,True
+Reserved[1],1023,Official,True,True
+MAMP Server,8889,Unofficial,True,False
+Earthland Relams 2 Server (AU1_1)[citation needed],8889,Unofficial,True,False
+NetIQ NCAP Protocol,2219,Official,True,True
+Often used by Microsoft DCOM services,1029,Unofficial,True,False
+STUN, a protocol for NAT traversal (UDP is reserved)[53],5349,Official,True,False
+TURN, a protocol for NAT traversal (UDP is reserved)[54],5349,Official,True,False
+"dtspcd"—a network daemon that accepts requests from clients to execute commands and launch applications remotely,6112,Official,False,True
+"dtspcd"—a network daemon that accepts requests from clients to execute commands and launch applications remotely,6112,Official,True,False
+Blizzard's Battle.net gaming service and some games,[43] ArenaNet gaming service, Relic gaming service,6112,Unofficial,True,False
+Club Penguin Disney online game for kids,6112,Unofficial,True,False
+Club Penguin Disney online game for kids, Used by some Blizzard games[43],6113,Unofficial,True,False
+Panda Software AdminSecure Communication Agent,19226,Unofficial,True,False
+WinMX (see also 6257),6699,Unofficial,True,False
+DNP - Secure (Distributed Network Protocol - Secure), a secure version of the protocol used in SCADA systems between communicating RTU's and IED's,19999,Official,False,False
+TISERVICEMANAGEMENT Numara Track-It!,9010,Unofficial,True,False
+IRC SSL (Secure Internet Relay Chat)—often used,6697,Unofficial,True,False
+XPilot Contact,15345,Official,True,True
+TUNNEL profile,[23] a protocol for BEEP peers to form an application layer tunnel,604,Official,True,False
+SGMP, Simple Gateway Monitoring Protocol,153,Official,True,True
+Background File Transfer Program (BFTP)[16],152,Official,True,True
+Fixed port used for Adobe Flash Debug Player to communicate with a debugger (Flash IDE, Flex Builder or fdb).[91],7935,Unofficial,True,False
+Windows Live Messenger (Voice),6901,Unofficial,True,True
+BitTorrent part of full range of ports used most often,6901,Unofficial,True,True
+EMC2 (Legato) Networker or Sun Solstice Backup,7937-9936,Official,True,True
+SQL Service,156,Official,True,True
+Astergate Control Daemon,9106,Official,True,True
+DMSP, Distributed Mail Service Protocol[17],158,Unofficial,True,True
+Xadmin Control Daemon,9105,Official,True,True
+Reverse Battle Tetris,4242,Unofficial,True,False
+Orthanc - Default DICOM port,4242,Unofficial,True,False
+scol, protocol used by SCOL 3D virtual worlds server to answer world name resolution client request[44],1200,Official,True,False
+scol, protocol used by SCOL 3D virtual worlds server to answer world name resolution client request,1200,Official,False,True
+Steam Friends Applet,1200,Unofficial,False,True
+PDL Data Stream,9100,Official,True,False
+Bacula Director,9101,Official,True,True
+Torpark—Control,82,Unofficial,False,True
+codeheart.js Relay Server,25560,Unofficial,True,False
+OSIsoft PI Asset Framework Client Access,5457,Unofficial,True,False
+Standard Minecraft (Dedicated) Server,25565,Unofficial,True,False
+MySQL Standard MySQL port,25565,Unofficial,False,False
+Default used by Smartlaunch Internet Cafe Administration[89] software,7831,Unofficial,True,False
+Xware xTrm Communication Protocol over SSL,3424,Official,True,False
+Enemy Territory: Quake Wars,7133,Unofficial,True,False
+RLZ DBase,635,Official,True,True
+Kerberos (protocol) administration,749,Official,True,True
+SFlow, sFlow traffic monitoring,6343,Official,False,True
+Torpark—Onion routing,81,Unofficial,True,False
+Pokémon Netbattle,30000,Unofficial,False,False
+gnutella-rtr, Gnutella alternate,6347,Official,True,True
+TACACS Login Host protocol,49,Official,True,True
+NI FTP[7],47,Official,True,True
+Domain Name System (DNS) RNDC Service,953,Unofficial,True,True
+SMAUSA OpCon Scheduler as the default listen port[citation needed],3100,Official,True,False
+BlackBerry Enterprise Server communication to cloud,3101,Unofficial,True,False
+Unassigned,40,Official,True,True
+EasyBits School network discovery protocol (for Intel's CMPC platform),1110,Unofficial,False,True
+Remote Job Entry,5,Official,True,True
+Game titled "Jedi Knight: Jedi Academy" by Ravensoft,29070,Unofficial,True,True
+Kerberos Change/Set password,464,Official,True,True
+Used by some Blizzard games[43],1119,Unofficial,True,True
+IPSec (Internet Protocol Security),1293,Official,True,True
+MooseFS distributed file system—chunk servers to clients,9422,Unofficial,True,False
+TheosNet-Admin listening for TheòsMessenger client connections,2501,Official,True,False
+THEÒSMESSENGER listening for TheòsMessenger client connections,2500,Official,True,False
+Symantec NetBackup—bpcd (formerly VERITAS),13782,Official,True,True
+Symantec VOPIED protocol (formerly VERITAS),13783,Official,True,True
+Symantec nomdb (formerly VERITAS),13786,Official,True,True
+Ascom Timeplex BRE (Bridge Relay Element),4096,Official,True,True
+RuneScape, FunOrb, Runescape Private Servers game servers,43594,Unofficial,True,False
+Symantec NetBackup Database—nbdb (formerly VERITAS),13785,Official,True,True
+Any of the USGN online games, most notably Counter Strike 2D multiplayer (2D clone of popular CounterStrike computer game),36963,Unofficial,False,True
+WibuKey, WIBU-SYSTEMS AG Software protection system,22347,Official,True,True
+Intuit Quickbooks client,10172,Unofficial,True,False
+TetriNET Used for game spectators,31458,Unofficial,True,False
+Catamount Software - PocketMoney Sync[citation needed],9191,Unofficial,True,False
+HTTP Alternate,8008,Official,True,False
+IBM HTTP Server administration default,8008,Unofficial,True,False
+ajp13—Apache JServ Protocol AJP Connector,8009,Unofficial,True,False
+Avtex LLC - qStats,9199,Unofficial,True,False
+Audition Online Dance Battle, AsiaSoft Thailand Server,18201,Unofficial,True,True
+iRDMI (Intel Remote Desktop Management Interface)[92]—sometimes erroneously used instead of port 8080,8000,Official,False,True
+iRDMI (Intel Remote Desktop Management Interface)[92]—sometimes erroneously used instead of port 8080,8000,Official,True,False
+Commonly used for internet radio streams such as those using SHOUTcast,8000,Unofficial,True,False
+FreemakeVideoCapture service a part of Freemake Video Downloader [93],8000,Unofficial,True,False
+Nortel Contivity Router Firewall User Authentication (FWUA) default port number,8000,Unofficial,True,False
+Commonly used for internet radio streams such as those using SHOUTcast,8001,Unofficial,True,False
+Cisco Systems Unified Call Manager Intercluster[citation needed],8002,Unofficial,True,False
+Multiplicity: keyboard/mouse/clipboard sharing software,30564,Unofficial,True,False
+NAS (Netnews Administration System)[41],991,Official,True,True
+WIP Message protocol,99,Unofficial,True,False
+I2P Monotone Repository,8998,Unofficial,True,False
+Paradigm Research & Development Jetnet[84] default,6543,Unofficial,False,True
+Microsoft Message Queuing,1801,Official,True,True
+VoIP program used by Ventrilo,3785,Unofficial,False,True
+Xware xTrm Communication Protocol,3423,Official,True,False
+VMware Remote Console [40],903,Unofficial,True,False
+pcANYWHEREdata, Symantec pcAnywhere (version 7.52 and later[79])[80] data,5631,Official,True,False
+pcANYWHEREstat, Symantec pcAnywhere (version 7.52 and later) status,5632,Official,False,True
+GELF Protocol,12201,Unofficial,False,True
+Secure Access Control Server (ACS) for Windows[citation needed],2002,Unofficial,True,False
+Reserved[1],49151,Official,True,True
+Cisco SCCP (Skinny),2000,Official,True,True
+CAPTAN Test Stand System,2001,Unofficial,False,True
+MapleStory Login Server,8484,Unofficial,True,False
+Home FTP Server web Interface Default Port[citation needed],4993,Unofficial,True,True
+tcpnethaspsrv (Aladdin Knowledge Systems Hasp services, TCP/IP version),475,Official,True,True
+CCNx,9695,Official,False,True
+H.323 Registration and alternate communication,1719,Official,False,True
+FTPS Protocol (control): FTP over TLS/SSL,990,Official,True,True
